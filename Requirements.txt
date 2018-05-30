@@ -1,5 +1,3 @@
-# Appointment-App
-App Being Developed for Wellcare Clinic, currently has the following requirements:
 
 Home page: Doctor's name, photograph
 Book: Patient name, mobile number, email, date (Calendar). Amount has to be displayed.
