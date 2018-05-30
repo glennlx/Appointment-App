@@ -9,4 +9,3 @@ Requirements that were specified on call:
 7) On successful payment, go back to home page, generate a confirmation message and email to patient.
 8) Reminder to the patient after 15 days for a follow up check.
 
-
