@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.pawanbhandarkar.android.appointments">
+    package="com.gtaandteam.android.wellcure">
 
     <application
         android:allowBackup="true"
@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".AppointmentActivity" />
-        <activity android:name=".DoctorsActivity"></activity>
+        <activity android:name=".DoctorsActivity" />
+        <activity android:name=".RegisterActivity"></activity>
     </application>
 
 </manifest>
